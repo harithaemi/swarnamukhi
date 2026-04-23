@@ -1,5 +1,5 @@
 import React from 'react'
-import Part1 from './components/part1'
+import Part1 from './components/Part1'
 import Part2 from './components/Part2'
 const Firstportion = () => {
   return (
