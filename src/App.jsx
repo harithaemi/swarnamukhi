@@ -2,7 +2,7 @@ import { Routes, Route } from "react-router-dom";
 import AppBar from './components/Appbar.jsx';
 import Footer from "./components/Footer.jsx";
 
-import Part1 from './components/part1.jsx';
+import Part1 from './components/Part1.jsx';
 import Part2 from './components/Part2.jsx';
 import Part3 from './components/Part3.jsx';
 import Part4 from './components/Part4.jsx';
